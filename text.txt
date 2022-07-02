@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>Another Website</title>
+        <link rel="shortcut icon" href="img-1.jpg" type="image/x-icon">
+    </head>
+    <body>
+        <h2>I can create anothor html.</h2>
+    </body>
+</html>
+paragraph bold italic heading anchor image list form input tag button div small !(html structure)favicon
