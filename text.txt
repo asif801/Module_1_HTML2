@@ -41,6 +41,20 @@ git merge image-add
 git push
 
 
-
+shobar kaj push korle merge conflict
 git checkout -b add-blog(akta notun branch banai oita te jaite cassi)
-git pull
+git branch
+git checkout add-blog
+git add .
+git commit -m"add"
+git push --set-upstream origin add-blog
+git checkout main
+git merge add- blog
+git add .
+git commit -m"add"
+git branch
+git checkout add-blog
+git add.
+git commit -m"add"
+git push
+
